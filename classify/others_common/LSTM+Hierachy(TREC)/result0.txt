@@ -1,0 +1,10 @@
+clusterResult0/syns_1000.txt0.931322674419
+clusterResult0/syns_1500.txt0.942950581395
+clusterResult0/syns_2000.txt0.941497093023
+clusterResult0/syns_2500.txt0.943313953488
+clusterResult0/syns_3000.txt0.938953488372
+clusterResult0/syns_3500.txt0.940770348837
+clusterResult0/syns_4000.txt0.936773255814
+clusterResult0/syns_4500.txt0.94585755814
+clusterResult0/syns_500.txt0.936409883721
+clusterResult0/syns_5000.txt0.939316860465

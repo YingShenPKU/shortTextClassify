@@ -1,0 +1,43 @@
+preference value: 500
+wirte file: syns_500.txt
+cal_har_sco: 14.2240622862
+silhouette: -0.0840869304658
+-------------------
+preference value: 1000
+wirte file: syns_1000.txt
+cal_har_sco: 10.0394747696
+silhouette: -0.0527834117752
+-------------------
+preference value: 1500
+wirte file: syns_1500.txt
+cal_har_sco: 8.33635503303
+silhouette: -0.0270128326106
+-------------------
+preference value: 2000
+wirte file: syns_2000.txt
+cal_har_sco: 7.38322853585
+silhouette: -0.00455948047734
+-------------------
+preference value: 2500
+wirte file: syns_2500.txt
+cal_har_sco: 6.76950016803
+silhouette: 0.0135030433662
+-------------------
+preference value: 3000
+wirte file: syns_3000.txt
+cal_har_sco: 6.34727569804
+silhouette: 0.0216970569583
+-------------------
+preference value: 3500
+wirte file: syns_3500.txt
+cal_har_sco: 6.03552547757
+silhouette: 0.0334486491148
+-------------------
+preference value: 4000
+wirte file: syns_4000.txt
+cal_har_sco: 5.79979657645
+silhouette: 0.0431627195508
+-------------------
+preference value: 4500
+wirte file: syns_4500.txt
+cal_har_sco: 5.61733064423

@@ -1,0 +1,9 @@
+clusterResult2/syns_4100.txt0.945494186047
+clusterResult2/syns_4200.txt0.942223837209
+clusterResult2/syns_4300.txt0.940043604651
+clusterResult2/syns_4400.txt0.940043604651
+clusterResult2/syns_4500.txt0.94585755814
+clusterResult2/syns_4600.txt0.938953488372
+clusterResult2/syns_4700.txt0.939680232558
+clusterResult2/syns_4800.txt0.935319767442
+clusterResult2/syns_4900.txt0.945494186047

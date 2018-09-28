@@ -1,0 +1,5 @@
+轻	d	B	O
+微	d	E	O
+感	v	B	O
+冒	v	E	O
+

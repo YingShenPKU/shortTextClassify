@@ -1,0 +1,1 @@
+clusterResult/syns_1000.txt0.976510067114
